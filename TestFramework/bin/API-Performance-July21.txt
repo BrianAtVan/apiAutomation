@@ -1,0 +1,2 @@
+	Response Size	Max Response Time	Avg. Response Time
+GET-MultiLineText	4802	00:10.464	00:01.434

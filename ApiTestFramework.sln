@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestFramework", "TestFramework\TestFramework.fsproj", "{3B9EE505-41BD-4B5B-A289-C182893C74A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RuntimeScripts", "RuntimeScripts", "{F621008F-00B1-4179-8B44-CB234FB725DB}"
+	ProjectSection(SolutionItems) = preProject
+		RuntimeScripts\UpdateConfigFile.ps1 = RuntimeScripts\UpdateConfigFile.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B9EE505-41BD-4B5B-A289-C182893C74A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9EE505-41BD-4B5B-A289-C182893C74A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9EE505-41BD-4B5B-A289-C182893C74A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9EE505-41BD-4B5B-A289-C182893C74A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

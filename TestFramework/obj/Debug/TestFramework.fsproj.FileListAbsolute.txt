@@ -1,0 +1,48 @@
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\TestFramework.dll.config
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\TestFramework.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\TestFramework.pdb
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FSharp.Core.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FSharp.Data.TypeProviders.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FsUnit.NUnit.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Newtonsoft.Json.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\nunit.framework.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\RestSharp.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\System.Net.Http.Formatting.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Unquote.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FSharp.Core.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FsUnit.NUnit.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Newtonsoft.Json.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\nunit.framework.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\RestSharp.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\System.Net.Http.Formatting.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Unquote.xml
+D:\Dnn.Microservices.Automation\TestFramework\obj\Debug\TestFramework.dll
+D:\Dnn.Microservices.Automation\TestFramework\obj\Debug\TestFramework.pdb
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FSharp.Data.pdb
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FSharp.Data.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Mono.Security.dll
+D:\Dnn.Microservices.Automation\TestFramework\obj\Debug\TestFramework.fsprojResolveAssemblyReference.cache
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\FSharp.Data.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Hopac.Core.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Hopac.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Hopac.Platform.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\HttpFs.dll
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Hopac.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\Hopac.Core.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\HttpFs.xml
+D:\Dnn.Microservices.Automation\TestFramework\bin\Debug\System.ValueTuple.dll
+D:\Dnn.Microservices.Automation\framework\TestFramework.dll.config
+D:\Dnn.Microservices.Automation\framework\TestFramework.dll
+D:\Dnn.Microservices.Automation\framework\TestFramework.pdb
+D:\Api.Eventful.Automation - Copy\framework\TestFramework.dll.config
+D:\Api.Eventful.Automation - Copy\framework\TestFramework.dll
+D:\Api.Eventful.Automation - Copy\framework\TestFramework.pdb
+D:\Api.Eventful.Automation - Copy\TestFramework\obj\Debug\TestFramework.fsprojResolveAssemblyReference.cache
+D:\Api.Eventful.Automation - Copy\TestFramework\obj\Debug\TestFramework.dll
+D:\Api.Eventful.Automation - Copy\TestFramework\obj\Debug\TestFramework.pdb
+D:\Api.Eventful.Automation\TestFramework\obj\Debug\TestFramework.fsprojResolveAssemblyReference.cache
+D:\Api.Eventful.Automation\framework\ApiTestFramework.dll.config
+D:\Api.Eventful.Automation\framework\ApiTestFramework.dll
+D:\Api.Eventful.Automation\framework\ApiTestFramework.pdb
+D:\Api.Eventful.Automation\TestFramework\obj\Debug\ApiTestFramework.dll
+D:\Api.Eventful.Automation\TestFramework\obj\Debug\ApiTestFramework.pdb
