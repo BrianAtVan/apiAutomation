@@ -55,18 +55,18 @@ addLogEntry ("GET", request.url.ToString(), response.statusCode.ToString(), (Sys
 
 ## API Test Case Overview
 ### BVT Test Cases
-![Bvt T Cs](TestData/bvtTCs.bmp)
+![Bvt T Cs](TestFramework/bvtTCs.bmp)
 <br /> 
 ### Positive Scenario Testing by parameters
-![Positive Data](TestData/positiveData.bmp)
+![Positive Data](TestFramework/positiveData.bmp)
 <br />  
 
 ### Negative Scenario Testing
-![Negative Data](TestData/negativeData.bmp)
+![Negative Data](TestFramework/negativeData.bmp)
 <br /> 
 
 ### Other test cases: Security
-![Security](TestData/security.bmp)
+![Security](TestFramework/security.bmp)
 <br /> 
 
 ### Other test cases: XSS injection or performance testings
